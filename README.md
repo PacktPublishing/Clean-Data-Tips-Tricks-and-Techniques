@@ -8,13 +8,13 @@ Data Cleaning is the hardest part of big data and ML. To address this matter, th
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Make interesting and creative visualizations based on your data with Power BI 
-<LI>Build powerful, structured reports and KPIs with Power BI 
-<LI>Explore detailed investigation history, trends, time series, and heat map charts with the analytical dashboard 
-<LI>Build several custom and geographic visuals to study the market with a strategic dashboard 
-<LI>Publish your dashboard to the web to have powerful, tile-based, data fusion, and tailor-made data for the effective executive 
-<LI>Get introduced to a narrative-oriented custom visual, Power BI's navigation capabilities, and a powerful storytelling feature 
-<LI>Get a detailed walkthrough of Power BI's flexible formatting features </LI></UL></DIV>
+<LI>Learn to spot outliers in your data and analyze sensor data to find omissions 
+<LI>Tokenize data and clean stop words to make it more robust 
+<LI>Analyze and extract features from unstructured text data 
+<LI>Clean and handle duplicates in your big data analytics and statistics 
+<LI>Find and remove global row duplicates 
+<LI>Learn to handle data cleaning for numbers 
+
 
 ## Instructions and Navigation
 ### Assumed Knowledge
